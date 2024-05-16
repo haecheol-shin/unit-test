@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gcukakao.jenkins.calculator.CalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-04-25T11:19:29" hostname="DESKTOP-JNK8R22" time="0.027">
+  <properties/>
+  <testcase name="testDiv()" classname="gcukakao.jenkins.calculator.CalculatorTest" time="0.022"/>
+  <testcase name="testMul()" classname="gcukakao.jenkins.calculator.CalculatorTest" time="0.001"/>
+  <testcase name="testSub()" classname="gcukakao.jenkins.calculator.CalculatorTest" time="0.001"/>
+  <testcase name="testSum()" classname="gcukakao.jenkins.calculator.CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
